@@ -10,6 +10,7 @@ Materal parameters:
 https://user-images.githubusercontent.com/6388730/164812290-ff3383eb-912d-46c4-8af5-47fbe58beaf7.mp4
 
 Installation:
+- Make sure Opaque texture is checked in your Universal render pipeline asset.
 - Clone this repo and put it into your project.
 - Use glass material or create your own material from "GlassShader" shadergraph file.
 - Assign material to your object
