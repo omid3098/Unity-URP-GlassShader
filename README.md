@@ -1,5 +1,8 @@
 # UnityGlassShader
 ![image](https://user-images.githubusercontent.com/6388730/164811036-e939eca4-5caa-416e-bf89-a6b8545ecf98.png)
+## Update: Supports diffuse texture
+Thanks to [@HiRoS-neko](https://github.com/HiRoS-neko)
+![image](https://user-images.githubusercontent.com/6388730/201767206-c4a494f6-bb73-4b17-a951-5f7e8b013a12.png)
 
 Demo Video:
 
