@@ -1,4 +1,7 @@
 # UnityGlassShader
+
+If you are looking for a more advanced glass shader, check [This one!](https://github.com/omid3098/Unity-URP-ScreenSpaceRefraction)
+
 ![image](https://user-images.githubusercontent.com/6388730/164811036-e939eca4-5caa-416e-bf89-a6b8545ecf98.png)
 ## Update: Supports diffuse texture
 Thanks to [@HiRoS-neko](https://github.com/HiRoS-neko)
